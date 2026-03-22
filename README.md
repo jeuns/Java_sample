@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ikanyov/First%20Project/_apis/build/status%2FArcher743.azure-pipelines-java?branchName=main)](https://dev.azure.com/ikanyov/First%20Project/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
