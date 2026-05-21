@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/lshin-new-org/lshin-new-project/_apis/build/status%2Fjeuns.Java_sample?branchName=main)](https://dev.azure.com/lshin-new-org/lshin-new-project/_build/latest?definitionId=14&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
